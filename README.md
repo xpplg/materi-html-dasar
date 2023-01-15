@@ -107,9 +107,7 @@ attribute cols untuk lebar nilai kolom dari inputan dan attribute rows untuk bes
 
 **Referensi Video**
 * Belajar HTML dari Dasar oleh Sekolah Koding: https://youtube.com/playlist?list=PLCZlgfAG0GXC9ojTmU95BRefbJoi4clY-
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLCZlgfAG0GXC9ojTmU95BRefbJoi4clY-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 * HTML Dasar dari Web Programming UNPAS : https://youtube.com/playlist?list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **sumber**
 tulisan ini disarikan dari halaman dokumentasi W3schools : https://www.w3schools.com/html/default.asp
